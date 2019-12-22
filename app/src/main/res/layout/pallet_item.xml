@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    android:orientation="vertical"
+    >
+
+    <ImageView
+        android:id="@+id/color"
+        android:layout_width="@dimen/pallet_size"
+        android:layout_height="@dimen/pallet_size"
+        />
+
+</LinearLayout>

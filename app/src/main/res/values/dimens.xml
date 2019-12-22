@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_margin">10dp</dimen>
+    <dimen name="button_size">50dp</dimen>
+    <dimen name="margin_view">72dp</dimen>
+    <dimen name="column_width">38dp</dimen>
+    <dimen name="horizontal_spacing">5dp</dimen>
+    <dimen name="vertical_spacing">5dp</dimen>
+    <dimen name="divider_padding">30dp</dimen>
+    <dimen name="pallet_size">40dp</dimen>
+</resources>
